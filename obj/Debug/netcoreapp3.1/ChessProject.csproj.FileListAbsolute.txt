@@ -1,0 +1,11 @@
+C:\Programming\Projects\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.exe
+C:\Programming\Projects\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.deps.json
+C:\Programming\Projects\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.json
+C:\Programming\Projects\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.runtimeconfig.dev.json
+C:\Programming\Projects\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.dll
+C:\Programming\Projects\ChessProject\bin\Debug\netcoreapp3.1\ChessProject.pdb
+C:\Programming\Projects\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.csprojAssemblyReference.cache
+C:\Programming\Projects\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfoInputs.cache
+C:\Programming\Projects\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.AssemblyInfo.cs
+C:\Programming\Projects\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.dll
+C:\Programming\Projects\ChessProject\obj\Debug\netcoreapp3.1\ChessProject.pdb
